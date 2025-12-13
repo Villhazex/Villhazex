@@ -19,32 +19,24 @@
 ---
 
 ## 📊 Language Usage
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=villhazex&layout=compact&theme=tokyonight&hide_border=true"
-    style="width:100%; max-width:1000px;"
-  />
-</p>
 
-## 📊 Language Usage
-
-<div align="center" style="max-width:1000px; margin:auto;">
-  <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;"
-    <div style="flex:1 1 450px;">
+<table align="center" style="max-width:1000px; width:100%;">
+  <tr>
+    <td width="50%" align="center">
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=villhazex&layout=compact&theme=tokyonight&hide_border=true"
         style="width:100%;"
       />
-    </div>
-    <div style="flex:1 1 450px;">
+    </td>
+    <td width="50%" align="center">
       <img 
         src="https://github-readme-streak-stats.herokuapp.com/?user=villhazex&theme=tokyonight&hide_border=true"
         style="width:100%;"
       />
-    </div>
+    </td>
+  </tr>
+</table>
 
-  </div>
-</div>
 
 ---
 ## 🎮 Connect With Me
