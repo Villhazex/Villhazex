@@ -19,23 +19,26 @@
 ---
 
 ## 📊 Language Usage
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=villhazex&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<table align="center" width="500">
+  <tr>
+    <td width="50%" align="center">
+      <b>📊 Language Usage</b><br><br>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=villhazex&layout=compact&theme=tokyonight&hide_border=true"
+        width="240"
+      />
+    </td>
+    <td width="50%" align="center">
+      <b>🔥 GitHub Streak</b><br><br>
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=villhazex&theme=tokyonight&hide_border=true"
+        width="240"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
-
-<!-- ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=tokyonight&hide_border=true" />
-</p>
-
---- -->
-
 ## 🎮 Connect With Me
 <p align="center">
   <a href="https://steamcommunity.com/profiles/76561199550950090/">
