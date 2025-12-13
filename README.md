@@ -21,19 +21,23 @@
   <img src="https://skillicons.dev/icons?i=cpp,dart,py&theme=dark" />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=villhazex&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=villhazex&layout=compact&theme=tokyonight&hide_border=true"
+        width="420"
+      />
+    </td>
+    <td>
+      <img
+        src="https://nirzak-streak-stats.vercel.app/?user=villhazex&theme=dark&hide_border=true"
+        width="420"
+      />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=villhazex&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
 
 ---
 
