@@ -30,7 +30,7 @@
 
 <p align="center">
   <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=villhazex&theme=dark&hide_border=true"
+    src="https://nirzak-streak-stats.vercel.app/?user=villhazex&theme=tokyonight&hide_border=true"
     height="170"
   />
 </p>
