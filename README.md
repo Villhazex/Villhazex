@@ -10,11 +10,6 @@
 
 ---
 
-## 🚀 About Me
-- 🌱 Currently learning **C++** and **Dart**
-
----
-
 ## 📊 Stats
 
 <p align="center">
