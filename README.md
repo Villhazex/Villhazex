@@ -9,7 +9,7 @@
 </p>
 
 ---
-
+<!--
 ## 📊 Stats
 
 <p align="center">
@@ -34,6 +34,7 @@
 </table>
 
 ---
+-->
 
 ## 🎮 Connect With Me
 
