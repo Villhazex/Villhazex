@@ -36,8 +36,6 @@
 ---
 -->
 
-## 🎮 Connect With Me
-
 <p align="center">
   <a href="https://steamcommunity.com/profiles/76561199550950090/">
     <img src="https://img.shields.io/badge/Steam-0B0B0B?style=for-the-badge&logo=steam&logoColor=white"/>
