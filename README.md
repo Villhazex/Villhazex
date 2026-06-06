@@ -8,7 +8,6 @@
   <img src="anime.gif"/>
 </p>
 
----
 <!--
 ## 📊 Stats
 
